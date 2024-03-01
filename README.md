@@ -10,7 +10,7 @@ Features:
 
 3.Responsive Controls: Maneuver with arrow keys and shoot lasers with spacebar for precise combat.<br>
 
-4.Immersive Soundtrack: Toggle music on/off with "m" key, enhancing the deep space atmosphere.<br>.
+4.Immersive Soundtrack: Toggle music on/off with "m" key, enhancing the deep space atmosphere.<br>
 
 How to Play:<br>
 
