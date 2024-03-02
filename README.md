@@ -1,5 +1,4 @@
-
-https://github.com/Haricharan2012/SpaceXShoot/assets/160393488/2d72d430-4916-4f33-809a-48d787f1a924# SpaceXShoot
+# SpaceXShoot
 
 Embark on a thrilling space adventure! Control a powerful spaceship, blast obstacles with lasers, and conquer increasingly challenging levels. Get ready for an exciting journey through the cosmos!<br>
 
