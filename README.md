@@ -22,4 +22,4 @@ How to Play:<br>
 3.Music Toggle: Press "m" to enjoy or silence the immersive soundtrack.<br>
 
 
-https://github.com/Haricharan2012/SpaceXShoot/assets/160393488/2d72d430-4916-4f33-809a-48d787f1a924<br>
+https://github.com/Haricharan2012/SpaceXShoot/assets/160393488/2d72d430-4916-4f33-809a-48d787f1a924
